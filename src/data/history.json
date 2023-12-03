@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Customer Care",
+      "organisation": "Viber",
+      "startDate": "Sept, 2021",
+      "endDate": "Feb, 2023",
+      "experiences": ["Worked on business accounts", "Answerd to customer issues both in English and Arabic"],
+      "imageSrc": "history/viber.png"
+    },
+    {
+      "role": "Cognitive test mentor",
+      "organisation": "KNS",
+      "startDate": "Nov, 2016",
+      "endDate": "Present",
+      "experiences": ["Worked with people of all ages, mainly children on computrised cognitive attention tests", "Controled, monitored and analised the whole test process and results"],
+      "imageSrc": "history/mentor.png"
+    },
+    {
+      "role": "Researcher",
+      "organisation": "Bar Ilan University",
+      "startDate": "March, 2023",
+      "endDate": "Sept, 2023",
+      "experiences": [
+        "Worked with big data of MRI scans and MEG aquired data",
+        "Helped in producing a more accurate spacial image and resulotion of brain activity through best estimation method"
+      ],
+      "imageSrc": "history/rech.png"
+    }
+  ]

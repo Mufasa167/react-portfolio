@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "assets/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "assets/skills/react.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "assets/skills/c_plus.png"
+    },
+    {
+      "title": "Matlab",
+      "imageSrc": "assets/skills/Matlab_Logo.png"
+    },
+    {
+      "title": "Fieldtrip",
+      "imageSrc": "assets/skills/fieldtriplogo.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "assets/skills/javascript.png"
+    }
+  ]
